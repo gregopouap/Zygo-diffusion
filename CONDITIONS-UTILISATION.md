@@ -1,0 +1,39 @@
+# Conditions d'utilisation de Zygo IPTV
+
+*Version 1 — également affichées dans l'application (Réglages → Conditions d'utilisation).*
+
+## 1. Zygo IPTV est uniquement un lecteur
+
+Zygo IPTV est un lecteur multimédia. Il ne fournit, n'héberge, ne vend et ne diffuse aucun contenu : aucune chaîne, aucun film, aucune série, aucune playlist ni aucun abonnement. L'application lit uniquement les sources que l'utilisateur ajoute lui-même (codes Xtream, liens ou fichiers M3U, vidéos du téléphone).
+
+## 2. Responsabilité de l'utilisateur
+
+L'utilisateur est seul responsable des sources qu'il ajoute et de l'usage qu'il fait de l'application. Il s'engage à n'utiliser que des contenus et des services auxquels il a légalement accès, dans le respect des droits d'auteur et des lois de son pays.
+
+## 3. Aucun encouragement au piratage
+
+Zygo IPTV n'encourage pas et ne cautionne pas l'utilisation de contenus illégaux ou piratés. Les éditeurs de Zygo IPTV ne sont pas responsables de l'utilisation de l'application, des contenus lus ni des services IPTV utilisés par l'utilisateur.
+
+## 4. Téléchargements
+
+La fonction de téléchargement (10 par mois) est proposée sous réserve de l'accord du fournisseur IPTV de l'utilisateur et des titulaires des droits. Il appartient à l'utilisateur de vérifier que son abonnement autorise l'enregistrement des contenus. Les fichiers téléchargés sont réservés à un usage strictement privé et ne doivent pas être partagés ni diffusés.
+
+## 5. Contrôle parental
+
+Le contrôle parental cache les catégories reconnues comme « adultes » d'après les noms donnés par le fournisseur. Cette détection peut être incomplète : elle ne remplace pas la surveillance d'un adulte.
+
+## 6. Données personnelles
+
+Les identifiants IPTV, playlists, favoris et reprises sont chiffrés et enregistrés sur le téléphone. Le compte Zygo (facultatif) ne demande qu'une adresse e-mail ; les données synchronisées sont chiffrées avant leur envoi. Zygo IPTV ne contient pas de publicité, ne revend aucune donnée et ne suit pas ce que l'utilisateur regarde. Le compte et ses données peuvent être supprimés à tout moment depuis l'application.
+
+## 7. Application gratuite, sans garantie
+
+Zygo IPTV est proposée gratuitement, « en l'état », sans garantie de fonctionnement avec tous les fournisseurs, tous les formats ou tous les appareils. Les éditeurs ne pourront être tenus responsables d'un dommage résultant de son utilisation.
+
+## 8. Propriété
+
+Le nom Zygo, le personnage, l'interface et le code de l'application sont protégés. Toute copie, modification ou redistribution non autorisée est interdite.
+
+## 9. Évolution des conditions
+
+Ces conditions peuvent évoluer. La nouvelle version est présentée dans l'application et doit être acceptée pour continuer à l'utiliser.
