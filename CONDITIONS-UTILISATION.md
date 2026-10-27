@@ -28,10 +28,18 @@ Le compte Zygo est lié uniquement à son adresse e-mail : il n'existe ni mot de
 
 Zygo IPTV est utilisable gratuitement. Zygo Premium (application téléphone) débloque des fonctions supplémentaires. L'application est fournie « en l'état », sans garantie de fonctionnement avec tous les fournisseurs, tous les formats ou tous les appareils. Les éditeurs ne pourront être tenus responsables d'un dommage résultant de son utilisation.
 
-## 8. Propriété
+## 8. Enregistrements : usage strictement privé
+
+Les enregistrements (chaînes, films, séries) réalisés avec Zygo sont réservés à un usage strictement privé et personnel. Toute diffusion, copie, partage, mise en ligne ou revente est interdite. L'utilisateur qui le ferait agit à ses risques et périls : Zygo IPTV et ses administrateurs ne pourront en aucun cas être tenus responsables de l'usage fait de ces enregistrements.
+
+## 9. Propriété
 
 Le nom Zygo, le personnage, l'interface et le code de l'application sont protégés. Toute copie, modification ou redistribution non autorisée est interdite.
 
-## 9. Évolution des conditions
+## 10. Évolution des conditions
 
 Ces conditions peuvent évoluer. La nouvelle version est présentée dans l'application et doit être acceptée pour continuer à l'utiliser.
+
+## 11. Compatibilité avec les téléviseurs (application téléphone)
+
+L'application Zygo TV fonctionne sur les téléviseurs et boîtiers Android TV et Google TV (clés Google TV, Fire TV Stick, box Android). Les téléviseurs Samsung (Tizen), LG (webOS) et les anciens téléviseurs connectés ne sont pas compatibles. Sur ces téléviseurs, il suffit de brancher une clé Google TV ou un Fire TV Stick sur un port HDMI pour utiliser Zygo TV.

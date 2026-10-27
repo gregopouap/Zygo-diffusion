@@ -32,4 +32,4 @@ Hébergement du compte : Supabase. Paiement du Premium : prestataire de paiement
 
 ## 7. Tes droits
 
-Tu peux supprimer ton compte et toutes ses données à tout moment : Compte Zygo › « Supprimer mon compte ». La suppression est définitive. Tu peux aussi te déconnecter ou retirer un appareil quand tu veux.
+Tu peux supprimer ton compte à tout moment : Compte Zygo › « Supprimer mon compte ». Tes données synchronisées (playlists, réglages) et la liste de tes appareils sont effacées définitivement. Seul ton statut Premium (payé ou offert) reste attaché à ton adresse e-mail, pour que tu ne le perdes pas si tu recrées un compte. Tu peux aussi te déconnecter ou retirer un appareil quand tu veux.
