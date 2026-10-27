@@ -1,6 +1,4 @@
-# Conditions d'utilisation de Zygo IPTV
-
-*Version 1 — également affichées dans l'application (Réglages → Conditions d'utilisation).*
+# Zygo IPTV · Conditions d'utilisation
 
 ## 1. Zygo IPTV est uniquement un lecteur
 
@@ -20,16 +18,20 @@ Le contrôle parental cache les catégories reconnues comme « adultes » d'apr�
 
 ## 5. Données personnelles
 
-Les identifiants IPTV, playlists, favoris et reprises sont chiffrés et enregistrés sur le téléphone. Le compte Zygo (facultatif) ne demande qu'une adresse e-mail ; les données synchronisées sont chiffrées avant leur envoi. Zygo IPTV ne contient pas de publicité, ne revend aucune donnée et ne suit pas ce que l'utilisateur regarde. Le compte et ses données peuvent être supprimés à tout moment depuis l'application.
+Le compte Zygo ne demande qu'une adresse e-mail. Les identifiants IPTV, playlists et réglages sont chiffrés. Zygo IPTV ne contient pas de publicité, ne vend, ne loue et ne partage aucune donnée, et ne suit pas ce que l'utilisateur regarde. Le détail complet figure dans la Politique de confidentialité (Réglages › Confidentialité).
 
-## 6. Application gratuite, sans garantie
+## 6. Compte Zygo : l'adresse e-mail est la seule clé
 
-Zygo IPTV est proposée gratuitement, « en l'état », sans garantie de fonctionnement avec tous les fournisseurs, tous les formats ou tous les appareils. Les éditeurs ne pourront être tenus responsables d'un dommage résultant de son utilisation.
+Le compte Zygo est lié uniquement à son adresse e-mail : il n'existe ni mot de passe, ni autre moyen de le retrouver. L'utilisateur doit noter soigneusement cette adresse et garder l'accès à sa boîte mail. Un compte dont l'adresse est oubliée ou perdue ne peut pas être récupéré, y compris un compte Premium.
 
-## 7. Propriété
+## 7. Application, Premium et garantie
+
+Zygo IPTV est utilisable gratuitement. Zygo Premium (application téléphone) débloque des fonctions supplémentaires. L'application est fournie « en l'état », sans garantie de fonctionnement avec tous les fournisseurs, tous les formats ou tous les appareils. Les éditeurs ne pourront être tenus responsables d'un dommage résultant de son utilisation.
+
+## 8. Propriété
 
 Le nom Zygo, le personnage, l'interface et le code de l'application sont protégés. Toute copie, modification ou redistribution non autorisée est interdite.
 
-## 8. Évolution des conditions
+## 9. Évolution des conditions
 
 Ces conditions peuvent évoluer. La nouvelle version est présentée dans l'application et doit être acceptée pour continuer à l'utiliser.
