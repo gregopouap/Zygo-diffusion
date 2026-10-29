@@ -57,7 +57,9 @@ const URL_ = "https://anqtxdbawjsibzwfuror.supabase.co";
 const KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFucXR4ZGJhd2pzaWJ6d2Z1cm9yIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI5Njk0NjMsImV4cCI6MjEwODU0NTQ2M30.YRzFHEO0gXFgbB89ux-u1DlCTh_-X-5e8rIZ_CVPwGg";
 const tvCode = (new URLSearchParams(location.search).get("c") || "").toUpperCase().replace(/[^A-Z0-9]/g, "");
 const $ = (id) => document.getElementById(id);
-if (tvCode.length === 6) $("tvline").innerHTML = 'Code de ta TV : <span class="tv">' + tvCode + '</span><br><br>';
+if (tvCode.length === 6) $("tvline").innerHTML = 'Code de ta TV : <span class="tv">' + tvCode + '</span><br>' +
+  '<p style="font-size:13px;opacity:.85">🔒 Vérifie que ce code est bien celui affiché <b>sur ta TV, devant toi</b>. ' +
+  'Si quelqu\'un t\'a envoyé ce lien, ne continue pas : il pourrait entrer dans ton compte.</p>';
 else $("m1").innerHTML = '<span class="err">Code de TV manquant : rescanne le QR code affiché sur la TV.</span>';
 let email = "";
 async function call(path, body, token) {
